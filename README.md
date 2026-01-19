@@ -156,4 +156,9 @@ node bench.js
 
 # Have a issue or feature request?
 FIX IT YOURSELF
+
 Feel free to fork the repository and submit a pull request with your changes.
+
+
+## License
+WTFPL - Do What The F*ck You Want To Public License
