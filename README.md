@@ -3,6 +3,10 @@
 A lightweight, regex-based HTML parser designed for high-performance web scraping.
 i wanted to scrape like 80,000 pages and jsdom was just too slow. (i didn't do my research first, so i din't know about htmlparser2 lol)
 
+## AI usage
+yes i did use it...
+mainly for documentation
+
 ## Overview
 
 HtmlParser provides a set of static and instance methods to quickly parse HTML strings and extract elements based on class names, tag names, IDs, data attributes, and CSS-like selectors. It is optimized for speed and minimal memory usage, making it ideal for large-scale web scraping tasks.
